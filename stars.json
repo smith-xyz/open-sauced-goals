@@ -1,0 +1,26 @@
+[
+  {
+    "full_name": "smith-xyz/liquibase",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "guyroyse/dnd-and-graph-databases",
+    "stargazers_count": 84,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "testing-library/react-testing-library",
+    "stargazers_count": 17089,
+    "open_issues_count": 22,
+    "forks_count": 1015
+  },
+  {
+    "full_name": "testing-library/jest-dom",
+    "stargazers_count": 3609,
+    "open_issues_count": 82,
+    "forks_count": 293
+  }
+]
