@@ -1,13 +1,13 @@
 [
   {
     "full_name": "liquibase/liquibase",
-    "stargazers_count": 4759,
-    "open_issues_count": 627,
-    "forks_count": 1867
+    "stargazers_count": 4762,
+    "open_issues_count": 634,
+    "forks_count": 1868
   },
   {
     "full_name": "tinyhttp/tinyhttp",
-    "stargazers_count": 2737,
+    "stargazers_count": 2740,
     "open_issues_count": 9,
     "forks_count": 127
   },
@@ -21,6 +21,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 940,
     "open_issues_count": 0,
-    "forks_count": 1022
+    "forks_count": 1025
   }
 ]
